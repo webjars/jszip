@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>jszip</artifactId>
-    <version>2.4.0-SNAPSHOT</version>
+    <version>2.4.0</version>
     <name>JSZip</name>
     <description>WebJar for JSZip</description>
     <url>http://webjars.org</url>
@@ -57,7 +57,7 @@
         <url>https://github.com/webjars/jszip</url>
         <connection>scm:git:https://github.com/webjars/jszip.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/jszip.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>jszip-2.4.0</tag>
     </scm>
 
     <build>
